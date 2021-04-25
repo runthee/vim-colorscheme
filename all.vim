@@ -1,6 +1,6 @@
 
 """
-" Name: Untitled.vim
+" Name: all.vim
 """
 
 set background=dark
@@ -10,7 +10,7 @@ if exists('syntax on')
     syntax reset
 endif
 
-let g:colors_name='Untitled'
+let g:colors_name='all'
 set t_Co=256
 
 
