@@ -12,4 +12,4 @@ all syntax in 1 file
 
 ### usage
 
-just copy the file `all.vim` to "/path/to/vim/colors/*HERE*"
+just copy the file `all-language.vim` to "/path/to/.vim/colors/*HERE*"
