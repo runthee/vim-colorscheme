@@ -1,6 +1,7 @@
 # vim-colorscheme
 
 all syntax in 1 file
+2 variant file scheme
 
 ## This file created for everyone love the syntax highlightings                          
 
@@ -16,7 +17,8 @@ all syntax in 1 file
 just copy the file `all-language.vim` to "/path/to/.vim/colors/*HERE*"
 
 edit ~/.vimrc and add: colorscheme all-language
-Esc
-type :so ~/.vimrc
+###
+and `Esc`
+and type :so ~/.vimrc
 
 DONE
